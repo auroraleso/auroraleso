@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 [![Aurora's GitHub stats](https://github-readme-stats.vercel.app/api?username=auroraleso&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auroraleso)](https://github.com/anuraghazra/github-readme-stats&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auroraleso&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
