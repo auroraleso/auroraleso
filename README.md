@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ## My GitHub stats 📈 
 ![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=auroraleso&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
-[![Aurora's GitHub stats](https://github-readme-stats.vercel.app/api?username=auroraleso&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Aurora's GitHub stats](https://github-readme-stats.vercel.app/api?username=auroraleso&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auroraleso)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auroraleso)](https://github.com/anuraghazra/github-readme-stats&theme=gotham)
 
 
