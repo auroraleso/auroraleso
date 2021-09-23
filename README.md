@@ -6,8 +6,10 @@
 [![Aurora's Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aurora.leso)
 
 ## About me
+Hello! I'm a Physicist, currently studying Phyisics (Master's degree, Fundamental Interactions) in Padua, and I plan to continue my studies with Medical Physics. 
 
-TO-DO
+Bachelor's degree in physics ✅ 
+Master's degree in Physics, Fundamental Interactions (in progress) 
 <!--
 **auroraleso/auroraleso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
